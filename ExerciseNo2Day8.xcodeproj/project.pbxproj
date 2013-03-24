@@ -18,8 +18,8 @@
 		90A55C9616FC79070074A8B2 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 90A55C9516FC79070074A8B2 /* Default-568h@2x.png */; };
 		90A55C9916FC79070074A8B2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 90A55C9816FC79070074A8B2 /* ViewController.m */; };
 		90A55C9C16FC79070074A8B2 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 90A55C9A16FC79070074A8B2 /* ViewController.xib */; };
-		90EFACF216FF095400A6896B /* jerry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90EFACF016FF095400A6896B /* jerry.jpg */; };
-		90EFACF316FF095400A6896B /* tom.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90EFACF116FF095400A6896B /* tom.jpg */; };
+		90EFACF816FF0CA700A6896B /* jerry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90EFACF616FF0CA700A6896B /* jerry.jpg */; };
+		90EFACF916FF0CA700A6896B /* tom.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90EFACF716FF0CA700A6896B /* tom.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,8 +39,8 @@
 		90A55C9716FC79070074A8B2 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		90A55C9816FC79070074A8B2 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		90A55C9B16FC79070074A8B2 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
-		90EFACF016FF095400A6896B /* jerry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = jerry.jpg; path = ../../jerry.jpg; sourceTree = "<group>"; };
-		90EFACF116FF095400A6896B /* tom.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = tom.jpg; path = ../../tom.jpg; sourceTree = "<group>"; };
+		90EFACF616FF0CA700A6896B /* jerry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jerry.jpg; sourceTree = "<group>"; };
+		90EFACF716FF0CA700A6896B /* tom.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tom.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,8 +100,8 @@
 		90A55C8616FC79070074A8B2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				90EFACF016FF095400A6896B /* jerry.jpg */,
-				90EFACF116FF095400A6896B /* tom.jpg */,
+				90EFACF616FF0CA700A6896B /* jerry.jpg */,
+				90EFACF716FF0CA700A6896B /* tom.jpg */,
 				90A55C8716FC79070074A8B2 /* ExerciseNo2Day8-Info.plist */,
 				90A55C8816FC79070074A8B2 /* InfoPlist.strings */,
 				90A55C8B16FC79070074A8B2 /* main.m */,
@@ -169,8 +169,8 @@
 				90A55C9416FC79070074A8B2 /* Default@2x.png in Resources */,
 				90A55C9616FC79070074A8B2 /* Default-568h@2x.png in Resources */,
 				90A55C9C16FC79070074A8B2 /* ViewController.xib in Resources */,
-				90EFACF216FF095400A6896B /* jerry.jpg in Resources */,
-				90EFACF316FF095400A6896B /* tom.jpg in Resources */,
+				90EFACF816FF0CA700A6896B /* jerry.jpg in Resources */,
+				90EFACF916FF0CA700A6896B /* tom.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
