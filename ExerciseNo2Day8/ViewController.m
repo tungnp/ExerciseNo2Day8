@@ -25,5 +25,19 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+- (IBAction)pushSegmentedButton:(UISegmentedControl *)sender {
+    UIImage* image;
+    if (sender.selectedSegmentIndex == 0) {
+        image = [UIImage imageNamed:@"tom.jpg"];
+    }
+    else{
+        image = [UIImage imageNamed:@"jerry.jpg"];
+    }
+    [self.imageView setImage:image];
+}
+- (IBAction)changeSliderValue:(UISlider *)sender {
+    [self.imageView setAlpha:sender.value];
+}
+
 
 @end
